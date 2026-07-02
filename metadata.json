@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Chin Tuck Posture Assistant",
+  "description": "An intelligent physiotherapy assistant that performs real-time neck angle, head position, and shoulder alignment tracking, featuring an AI Movement Analyzer and Kinematic Sequence Reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
